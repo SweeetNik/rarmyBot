@@ -10,11 +10,11 @@ vk.api.access_token="e47a840ce7af354b18208aac442f84ba6512644590bc55cb5a643e97282
 api = vk.API(session)
 a = 38
 while a > 1:
-    api.wall.post(owner_id='-195777168', message="Димас еще в армии\nДимасу осталось служить " + str(a) + " дней", attachments='photo201342171_456272777', v=5.90)
+    api.wall.post(owner_id='-195777168', message="Димас еще в армии\nДимасу осталось служить " + str(a) + " дней", attachments='photo201342171_456272777', v=5.107)
     print(a)
     a -= 1
     time.sleep(86400)
     if a == 1:
-        api.wall.post(owner_id='-195777168', message="Димас ДЕМБЕЛЬНУЛСЯ", attachments='photo201342171_456272777', v=5.90)
+        api.wall.post(owner_id='-195777168', message="Димас ДЕМБЕЛЬНУЛСЯ", attachments='photo201342171_456272777', v=5.107)
         break
     
