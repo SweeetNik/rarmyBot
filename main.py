@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 import vk
 import time
-my_app_id = 7486921
+my_app_id = 7496109
 user_login = '+79883214673'
 user_password = '1029384756Nikersss'
 
