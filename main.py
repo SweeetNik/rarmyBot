@@ -22,7 +22,7 @@ def subtract():
 session = vk.AuthSession(scope='wall', app_id=my_app_id, user_login=user_login, user_password=user_password)
 vk.api.access_token = "e47a840ce7af354b18208aac442f84ba6512644590bc55cb5a643e97282b78d72a6c4479271b6f9a7ca3d"
 api = vk.API(session)
-a = 21
+a = 18
 while a > 1:
     try:
         subtract()
