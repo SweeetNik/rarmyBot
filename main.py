@@ -5,8 +5,8 @@ import time
 time.sleep(7200)
 
 my_app_id = 7496109
-user_login = '89883214673'
-user_password = '1029384756NikeNikerss'
+user_login = 'соси член'
+user_password = 'я сказал член соси'
 
 
 def subtract():
