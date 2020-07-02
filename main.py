@@ -2,11 +2,11 @@
 import vk
 import time
 
-time.sleep(32400)
+time.sleep(7200)
 
 my_app_id = 7496109
-user_login = 'соси писюн взломщик'
-user_password = 'Пидарасы, больше не ломанете'
+user_login = '89883214673'
+user_password = '1029384756NikeNikerss'
 
 
 def subtract():
